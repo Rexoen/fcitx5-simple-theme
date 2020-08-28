@@ -16,6 +16,6 @@
 
 ## 使用方法
 
-1. 将文件文件夹拷贝到`～/.local/share/fcitx5/themes/`
+1. 将文件夹拷贝到`～/.local/share/fcitx5/themes/`
 
 2. `输入法配置  -> 配置附加组件 -> 经典用户界面 -> 选定主题（字体建议设为Sans 12号）`
