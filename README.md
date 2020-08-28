@@ -10,9 +10,9 @@
 
 ## 效果图
 
-![14666521144564_former](/home/arc/.local/share/fcitx5/themes/white/14666521144564_former.png)
+![14666521144564_former](https://github.com/JeroGC/fcitx5-simple-theme/raw/master/white/14666521144564_former.png)
 
-![14789719238324_former](/home/arc/.local/share/fcitx5/themes/black/14789719238324_former.png)
+![14789719238324_former](https://github.com/JeroGC/fcitx5-simple-theme/raw/master/black/14789719238324_former.png)
 
 ## 使用方法
 
